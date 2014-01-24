@@ -7,3 +7,4 @@ This project contains all my CodeEval challenges
 * palindrome/ - [CodeEval Challenge 3: Prime Palindrome](https://www.codeeval.com/open_challenges/3/)
 * reverseWords/ - [CodeEval Challenge 8: Reverse Words](https://www.codeeval.com/open_challenges/8/)
 * hiddenDigits/ - [CodeEval Challenge 122: Hidden Digits](https://www.codeeval.com/open_challenges/122/)
+* morseCode/ - [CodeEval Challenge 116: Morse Code](https://www.codeeval.com/open_challenges/116/)
