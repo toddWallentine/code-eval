@@ -1,0 +1,7 @@
+This is some words to reverse
+
+Another line
+a
+a b c
+
+This will be a very long line that has a lot of text on it just to see if the algorithm really, really, really works and can deal with some punctuation and other types of characters like numbers 0, 1, 2, and 3. Something else entirely on the same line.
